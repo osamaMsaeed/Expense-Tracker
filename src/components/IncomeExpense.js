@@ -21,10 +21,10 @@ const useStyles = makeStyles((theme) => ({
     wordBreak: "break-all",
   },
   income: {
-    color: "green",
+    color: theme.palette.success.main,
   },
   expense: {
-    color: "red",
+    color: 'red',
   },
 }));
 

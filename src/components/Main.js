@@ -8,6 +8,7 @@ import History from "./History";
 import NewTransaction from "./NewTransaction";
 
 import {TransactionProvider} from '../context/TransactionContext';
+import Footer from "./Footer";
 
 
 
@@ -28,6 +29,9 @@ const Main = () => {
           <Grid item xs={1}></Grid>
         </Grid>
         <Grid container xs={false} item lg={4}></Grid>
+      </Grid>
+      <Grid>
+        <Footer />
       </Grid>
       </TransactionProvider>
   );

@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
   },
   
   error:{
-    color:'red',
+    color:'#a31822',
     fontSize:12,
   },
   button:{

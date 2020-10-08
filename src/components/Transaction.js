@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
   },
   box: {
     display: "grid",
-    gridTemplateColumns: "0.5fr 15fr 3fr 0.5fr",
+    gridTemplateColumns: "0.5fr 15fr 3fr 0.8fr",
     alignItems: "stretch",
 
     minHeight: 35,

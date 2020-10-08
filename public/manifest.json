@@ -1,8 +1,30 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Expense Tracker App",
+  "name": "Expense Tracker App",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "icons": [
+    {
+    "src": "favicon.ico",
+    "sizes": "64x64",
+    "type": "image/x-icon"
+    },
+    {
+      "src":"favicon.ico",
+      "sizes":"32x32",
+      "type":"image/x-icon"
+    },
+    {
+      "src":"favicon.ico",
+      "sizes":"24x24",
+      "type":"image/x-icon"
+    },
+    {
+      "src":"favicon.ico",
+      "sizes":"16x16",
+      "type":"image/x-icon"
+    }
+  ]
 }
