@@ -81,7 +81,7 @@ const TransactionForm = () => {
             </p>
             <p className={classes.row}>
               <label htmlFor="amountDescription">
-                (Negative - Expense, Positive - Income)
+                (Use minus sign before amount for expenses)
               </label>
             </p>
             <p className={classes.row}>
