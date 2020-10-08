@@ -1,3 +1,3 @@
-Expense Tracker App
+Expense Ledger App
 
--An expense tracker app for maintaining your simple daily life transactions records.
+-An expense ledger app for maintaining your simple daily life transactions records.

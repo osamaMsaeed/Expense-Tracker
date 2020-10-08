@@ -18,7 +18,7 @@ const Header = () => {
 
     return (
         <div className={classes.root}>
-            <Typography variant='h4' color='primary' fontSize='12'>Expense Tracker</Typography>
+            <Typography variant='h4' color='primary' fontSize='12'>Expense Ledger</Typography>
         </div>
     )
 }
