@@ -24,8 +24,7 @@ const Footer = () => {
     return (<div className={classes.root}>
         <div style={{marginBottom:'8px'}}><p>Website created by Osama Muhammad</p></div>
         <div><p>GitHub Account: <a className={classes.link} href='https://github.com/osamaMsaeed' target='_blank' rel="noopener noreferrer">github.com/osamaMsaeed</a></p></div>
-        <div><p>LinkedIn Account: <a className={classes.link} href='https://www.linkedin.com/in/osama-muhammad-ubit/' target='_blank' rel="noopener noreferrer">linkedin.com/in/osama-muhammad-ubit</a></p></div>
-    </div>  );
+        </div>  );
 }
  
 export default Footer;
